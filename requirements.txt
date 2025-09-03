@@ -1,6 +1,8 @@
-fastapi
-uvicorn
-pillow
-rembg
-requests
-onnxruntime
+fastapi==0.111.0
+uvicorn[standard]==0.30.0
+pydantic==2.8.2
+pillow==10.4.0
+requests==2.32.3
+rembg==2.0.67
+onnxruntime==1.17.3
+numpy==1.26.4
